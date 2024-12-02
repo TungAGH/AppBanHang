@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "946952187004",
+    "project_id": "appbanhang-15908",
+    "storage_bucket": "appbanhang-15908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946952187004:android:832ad77fded7fe706f6df9",
+        "android_client_info": {
+          "package_name": "com.example.appbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946952187004-48alb6bh7u881mqhbe7tvf6p46d9db50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7qA6678-igU6vW59ZGAaaoe6XcHkUt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946952187004-48alb6bh7u881mqhbe7tvf6p46d9db50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946952187004:android:bf18492e5a66faf96f6df9",
+        "android_client_info": {
+          "package_name": "com.manager.appbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946952187004-gudc1ts2651dmes4n00c64hsa4k9mbme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manager.appbanhang",
+            "certificate_hash": "4e19bfeb6d5c2e1a550ae43d1dc2994d9b6fdcec"
+          }
+        },
+        {
+          "client_id": "946952187004-48alb6bh7u881mqhbe7tvf6p46d9db50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7qA6678-igU6vW59ZGAaaoe6XcHkUt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946952187004-48alb6bh7u881mqhbe7tvf6p46d9db50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
